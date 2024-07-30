@@ -1,0 +1,17 @@
+Explain why data structures and algorithms are essential in handling large inventories:
+    -> Inventories contain large amount of products in them to store and retrive their information
+        data structures are crucial.We can retrive data at O(1) complexity by using hashmaps as 
+        they hash and store data which can be retrived efficiently and duplicates can be avoided
+
+Discuss the types of data structures suitable for this problem:
+    -> We can have multiple approaches,Here I create 2 user defined types Product to store products
+       information and Inventory to store Products(In Inventory I use HashMap to store products with
+       respect to productId)
+
+Time complexity:
+    -> since we are using hashmap for all operations it is O(1)
+
+Optimization:
+    -> For this simple implementation this solution is optimal,If we considered to implement it
+       we need to consider safety in concurrent operations and to make if efficient we can implement
+       caching.
