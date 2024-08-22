@@ -1,0 +1,13 @@
+E:\BookstoreAPI\src\main\java\com\example\demo\BookstoreApiApplication.java
+E:\BookstoreAPI\src\main\java\com\example\demo\controller\BookController.java
+E:\BookstoreAPI\src\main\java\com\example\demo\controller\CustomerController.java
+E:\BookstoreAPI\src\main\java\com\example\demo\dto\BookDTO.java
+E:\BookstoreAPI\src\main\java\com\example\demo\dto\CustomerDTO.java
+E:\BookstoreAPI\src\main\java\com\example\demo\entity\Book.java
+E:\BookstoreAPI\src\main\java\com\example\demo\entity\Customer.java
+E:\BookstoreAPI\src\main\java\com\example\demo\mapper\BookMapper.java
+E:\BookstoreAPI\src\main\java\com\example\demo\mapper\CustomerMapper.java
+E:\BookstoreAPI\src\main\java\com\example\demo\repository\BookRepository.java
+E:\BookstoreAPI\src\main\java\com\example\demo\repository\CustomerRepository.java
+E:\BookstoreAPI\src\main\java\com\example\demo\service\BookService.java
+E:\BookstoreAPI\src\main\java\com\example\demo\service\CustomerService.java
